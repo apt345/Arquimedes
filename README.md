@@ -95,7 +95,7 @@ torus_pairs(fit$scores, col_data = "red", bwd = "EMI", scales = fit$scales)
 
 The data applications in García-Portugués and Prieto-Tirado (2021) can
 be reproduced through the script
-[data-application.R](https://github.com/egarpor/apt345/blob/master/application/data-application.R).
+data-application.R.
 The code snippet below illustrates the toroidal PCA analysis onto
 currents of two zones at Santa Barbara strait. Zone B, the interisland
 channel, and zone C, the eastern extreme of Santa Barbara.
