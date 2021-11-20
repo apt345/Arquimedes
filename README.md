@@ -128,7 +128,7 @@ if (fitbvm$BIC_fit < fitbwc$BIC_fit) {
 <img src="README/README-santabarbara-1.png" style="display: block; margin: auto;" /><img src="README/README-santabarbara-2.png" style="display: block; margin: auto;" />
 
 It can be seen how the bivariate von Mises is the most adecuate fit. The
-toroidal PCA explains 77% of the total variance which motivates its use
+toroidal PCA explains 87% of the total variance which motivates its use
 for dimension reduction. The scores also transform the data
 distribution, reducing noise and allowing to check for groups or
 outliers, if any.
